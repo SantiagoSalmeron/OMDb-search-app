@@ -1,0 +1,2 @@
+# OMDb-search-app
+This application allows the user to input a list of as many movies as they want (separated by a comma) and when the user presses the search button custom API requests will be made for each movie and the retrieved JASON formatted data will be used to retrieve: Title, Director, MetaScore and Year of each movie. This information will be stored in a list view and displayed to the user as soon as all requests have been completed  
